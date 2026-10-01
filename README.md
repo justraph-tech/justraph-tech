@@ -62,7 +62,11 @@ Mon premier projet : une app de motivation avec citation du jour, défis par cat
 
 ---
 
-## Down of Gopher · projet d'école
+## Downfall of Gopher · projet d'école
+
+<p align="center"><img src="assets/downfall-titre.png" alt="Downfall of Gopher, écran titre" width="600"></p>
+
+<p align="center"><img src="assets/downfall-fika.png" alt="Downfall of Gopher, la boutique La Fika" width="45%"> <img src="assets/downfall-combat.png" alt="Downfall of Gopher, combat" width="30%"></p>
 
 Jeu de rôle en ligne de commande écrit en Go, en équipe de trois, pour le projet RED d'Ynov. [Voir le dépôt](https://github.com/Juuuules83/Projet-RED-RAPH-ALEX-JULES)
 
