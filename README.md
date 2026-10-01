@@ -1,3 +1,4 @@
+<img width="300" height="598" alt="ambientcare-demo" src="https://github.com/user-attachments/assets/aaaedd27-3207-4381-ab2d-36edd2d02b22" />
 # Mes projets
 
 Étudiant en B1 Informatique à Ynov Campus Aix-en-Provence. Je conçois des applications web et mobiles en m'appuyant sur des outils d'IA pour coder plus vite. Ici, je présente les projets. Le code reste privé et je le montre volontiers sur demande.
@@ -20,7 +21,8 @@ Une app pour organiser sa semaine sur téléphone, sans créer de compte. On pla
 
 ## AmbientCare · compte-rendu médical assisté par IA
 
-<p align="center"><img src="assets/ambientcare-patients.png" alt="AmbientCare, liste des patients" width="30%"> <img src="assets/ambientcare-fiche.png" alt="AmbientCare, fiche patient" width="30%"></p>
+<p align="center"><img src="assets/ambientcare-patients.png" alt="AmbientCare, liste des patients" width="30%"> <img src="assets/ambientcare-fiche.png" alt="AmbientCare, fiche patient" width="30%"><img width="300" height="598" alt="ambientcare-demo" src="https://github.com/user-attachments/assets/d0d22828-5241-46a4-a1d3-33034c39527d" />
+</p>
 
 Une maquette d'app mobile pour médecins hospitaliers. Le médecin enregistre la consultation, la transcription s'affiche en direct, puis une IA rédige un compte-rendu structuré que le médecin relit et valide avant que la famille soit prévenue. Les patients sont fictifs.
 
