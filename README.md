@@ -6,7 +6,7 @@
 
 ## Weeko · emploi du temps de la semaine
 
-<p align="center"><img src="assets/weeko.png" alt="Weeko, planning de la semaine" width="800"></p>
+<p align="center"><img src="assets/weeko-jour.png" alt="Weeko, vue du jour" width="30%"> <img src="assets/weeko-activite.png" alt="Weeko, modifier une activité" width="30%"> <img src="assets/weeko-plannings.png" alt="Weeko, plannings et sauvegarde" width="30%"></p>
 
 Une app pour organiser sa semaine sur téléphone, sans créer de compte. On place ses activités sur une grille horaire, on alterne semaine A et semaine B, on coche ce qui est fait, et le reste part dans une liste de tâches.
 
