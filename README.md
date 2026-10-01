@@ -1,4 +1,3 @@
-<img width="300" height="598" alt="ambientcare-demo" src="https://github.com/user-attachments/assets/aaaedd27-3207-4381-ab2d-36edd2d02b22" />
 # Mes projets
 
 Étudiant en B1 Informatique à Ynov Campus Aix-en-Provence. Je conçois des applications web et mobiles en m'appuyant sur des outils d'IA pour coder plus vite. Ici, je présente les projets. Le code reste privé et je le montre volontiers sur demande.
