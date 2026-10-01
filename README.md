@@ -1,6 +1,6 @@
 # Mes projets
 
-Étudiant en B1 Informatique à Ynov Campus Aix-en-Provence. Je conçois des applications web et mobiles en m'appuyant sur des outils d'IA pour coder plus vite.
+Étudiant en B1 Informatique à Ynov Campus Aix-en-Provence. Je conçois des applications web et mobiles en m'appuyant sur des outils d'IA .
 
 Les quatre applications ci-dessous sont des **prototypes personnels** : des projets d'apprentissage pour tester une idée et une technologie, pas des produits en ligne. Chaque fiche indique ce qui fonctionne et ce qui reste à faire. Le code reste privé et je le montre volontiers sur demande.
 
