@@ -6,7 +6,7 @@
 
 ## Weeko · emploi du temps de la semaine
 
-<img src="assets/weeko.png" alt="Weeko : planning de la semaine A" width="800">
+<p align="center"><img src="assets/weeko.png" alt="Weeko, planning de la semaine" width="800"></p>
 
 Une app pour organiser sa semaine sur téléphone, sans créer de compte. On place ses activités sur une grille horaire, on alterne semaine A et semaine B, on coche ce qui est fait, et le reste part dans une liste de tâches.
 
@@ -34,7 +34,7 @@ Une maquette d'app mobile pour médecins hospitaliers. Le médecin enregistre la
 
 ## MooveUp+ · app fitness pour athlètes hybrides
 
-<img src="assets/mooveup-logo.png" alt="Logo MooveUp" width="180">
+<p align="center"><img src="assets/mooveup-banniere.png" alt="Logo MooveUp" width="400"></p>
 
 Une application complète d'entraînement : programmes (dont certains générés par IA), suivi des séances, coach nutrition conversationnel, défis, badges, classement et fil social, avec abonnements payants.
 
@@ -49,7 +49,7 @@ Une application complète d'entraînement : programmes (dont certains générés
 
 ## Daily-Step · motivation au quotidien
 
-<img src="assets/daily-step.png" alt="Daily-Step : tableau de bord" width="800">
+<p align="center"><img src="assets/daily-step.png" alt="Daily-Step, tableau de bord" width="800"></p>
 
 Mon premier projet : une app de motivation avec citation du jour, défis par catégorie, séries de jours, points d'expérience, niveaux et badges.
 
