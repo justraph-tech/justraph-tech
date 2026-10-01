@@ -36,6 +36,10 @@ Une maquette d'app mobile pour médecins hospitaliers. Le médecin enregistre la
 
 <p align="center"><img src="assets/mooveup-banniere.png" alt="Logo MooveUp" width="400"></p>
 
+<p align="center"><img src="assets/mooveup-competences.png" alt="MooveUp+, choix de la compétence à travailler" width="800"></p>
+
+<p align="center"><img src="assets/mooveup-programmes.png" alt="MooveUp+, catalogue de programmes et création par IA" width="49%"> <img src="assets/mooveup-pro.png" alt="MooveUp+, offre Pro avec paiement Stripe" width="40%"></p>
+
 Une application complète d'entraînement : programmes (dont certains générés par IA), suivi des séances, coach nutrition conversationnel, défis, badges, classement et fil social, avec abonnements payants.
 
 - Une quarantaine d'écrans, en français et en anglais
