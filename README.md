@@ -20,7 +20,7 @@ Une app pour organiser sa semaine sur téléphone, sans créer de compte. On pla
 
 ## AmbientCare · compte-rendu médical assisté par IA
 
-<!-- vidéo de démo : enregistrement → compte-rendu -->
+<p align="center"><img src="assets/ambientcare-patients.png" alt="AmbientCare, liste des patients" width="30%"> <img src="assets/ambientcare-fiche.png" alt="AmbientCare, fiche patient" width="30%"></p>
 
 Une maquette d'app mobile pour médecins hospitaliers. Le médecin enregistre la consultation, la transcription s'affiche en direct, puis une IA rédige un compte-rendu structuré que le médecin relit et valide avant que la famille soit prévenue. Les patients sont fictifs.
 
